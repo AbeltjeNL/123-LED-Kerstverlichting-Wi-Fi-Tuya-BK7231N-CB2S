@@ -80,8 +80,8 @@ output:
 #-----------------------------------------------------------+----------------#
 #  PWM informatie:                                          #
 #```````````````````````````````````````````````````````````#
-#  PWM0 = P6 = Fysieke knop op adapter                      #
-#  PWM2 = P8 = Status LED in fysieke knop adapter           #
+#  PWM0 = P8 = Fysieke knop op adapter                      #
+#  PWM2 = P6 = Status LED in fysieke knop adapter           #
 #  PMW4 = P24 = Warm Wit = Fairybell achtertuin             #
 #  PWM5 = P26 = RGB/W = Fairybell voortuin en kerstboom     #
 #  ! Let op ! Verschil in PWM's tussen merken!              #
