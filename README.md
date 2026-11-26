@@ -36,7 +36,7 @@ I:     --------+        +--------------------
 - Navigate to the "Downloads" folder. You should find your previously generated ESPHome.rbl file there
 - Right-click on the "Downloads" folder at the bottom of the window and select "Open in Terminal"
 - Turn on the external 3V3 power supply, the green LED on the PCB starts flashing
-- Run the following command in the terminal window: ```ltchiptool flash write bestandsnaam.rbl```
+- Run the following command in the terminal window: ```ltchiptool flash write bestandsnaam.u2f```
 - ltchiptool starts the flashing process
 - Now briefly touch the CEN pin with the extra GND wire
 - You will see the flash process start now
