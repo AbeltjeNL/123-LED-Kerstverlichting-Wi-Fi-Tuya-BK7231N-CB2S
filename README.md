@@ -33,7 +33,7 @@ I:     --------+        +--------------------
 ```https://docs.libretiny.eu/docs/flashing/tools/ltchiptool/#installation```
 
 - From MacOS terminal, run the following commands: ```pip install ltchiptool``` & ```pip install wxPython```
-- Navigate to the "Downloads" folder. You should find your previously generated ESPHome.rbl file there
+- Navigate to the "Downloads" folder. You should find your previously generated ESPHome.u2f file there
 - Right-click on the "Downloads" folder at the bottom of the window and select "Open in Terminal"
 - Turn on the external 3V3 power supply, the green LED on the PCB starts flashing
 - Run the following command in the terminal window: ```ltchiptool flash write bestandsnaam.u2f```
